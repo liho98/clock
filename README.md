@@ -14,7 +14,7 @@ After downloading, install DOSBox to any directory. Also, make a folder to put a
 
 Next step, follow the screenshot below go into the directory.
 
-![](/sreenshot/1.png)
+![](/screenshot/1.png)
 
 After you success go to the directory, then you should type MASM MAIN.ASM, press enter 3 times.
 
@@ -34,38 +34,38 @@ Step-by-step guideline to use the program
     
 (b) Print screen for I/O operation
 
-![](/sreenshot/2.png)
+![](/screenshot/2.png)
 
 Above screenshot is to show the main menu of the SMD digital clock program.
 
-![](/sreenshot/3.png)
+![](/screenshot/3.png)
 
 Above screenshot is to show the options in Show clock option, to view either analog clock or digital clock.
 
-![](/sreenshot/4.png)
+![](/screenshot/4.png)
 
 Above screenshot is to show the digital analog clock with beautiful graphical interface.
 
-![](/sreenshot/5.png)
+![](/screenshot/5.png)
 
 Above screenshot is to show the digital alarm clock.
 
-![](/sreenshot/6.png)
+![](/screenshot/6.png)
 
 Above screenshot is to show edit or setting the alarm for the digital alarm clock.
 
-![](/sreenshot/7.png)
+![](/screenshot/7.png)
 
 Above screenshot is to show timer interface with 5 buttons which is start, stop, reset, back and edit.
 
-![](/sreenshot/8.png)
+![](/screenshot/8.png)
 
 Above screenshot is to show setting timer with null input, hence it return unsuccessfully of setting timer.
 
-![](/sreenshot/9.png)
+![](/screenshot/9.png)
 
 Above screenshot is to show the stopwatch interface with 4 buttons which are start, stop, reset and back.
 
-![](/sreenshot/10.png)
+![](/screenshot/10.png)
 
 Above is the piano sheet music of Two tigers.
